@@ -59,7 +59,7 @@ android_app_import {
 android_app_import {
         name: "PowerOffAlarm",
         owner: "lenovo",
-        apk: "proprietary/product/app/PowerOffAlarm.apk",
+        apk: "proprietary/product/app/PowerOffAlarm/PowerOffAlarm.apk",
         certificate: "platform",
         dex_preopt: {
                 enabled: false,
@@ -141,7 +141,7 @@ android_app_import {
 android_app_import {
         name: "ConnectionSecurityService",
         owner: "lenovo",
-        apk: "vendor/app/ConnectionSecurityService/ConnectionSecurityService.apk",
+        apk: "proprietary/vendor/app/ConnectionSecurityService/ConnectionSecurityService.apk",
         certificate: "platform",
         dex_preopt: {
                 enabled: false,
