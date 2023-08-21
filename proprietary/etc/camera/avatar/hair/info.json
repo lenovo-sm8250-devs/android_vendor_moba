@@ -1,0 +1,148 @@
+{
+  "infoList": [
+    {
+      "name": "",
+      "fxFileName": "",
+      "effectId": "",
+      "fxLicFileName": "",
+      "imageName": "none.png",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Hair Model Id",
+      "type": 0
+
+    },
+    {
+      "name": "",
+      "fxFileName": "441AEA2E-63BE-43F9-B568-CF445839BD8C.1.avatarmodel",
+      "effectId": "441AEA2E-63BE-43F9-B568-CF445839BD8C",
+      "fxLicFileName": "441AEA2E-63BE-43F9-B568-CF445839BD8C.lic",
+      "imageName": "441AEA2E-63BE-43F9-B568-CF445839BD8C.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/hair/441AEA2E-63BE-43F9-B568-CF445839BD8C.json",
+      "effectKeyName": "Custom Avatar Hair Model Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "429201BF-7F4E-4A4C-A12D-BC8D982E55B4.1.avatarmodel",
+      "effectId": "429201BF-7F4E-4A4C-A12D-BC8D982E55B4",
+      "fxLicFileName": "429201BF-7F4E-4A4C-A12D-BC8D982E55B4.lic",
+      "imageName": "429201BF-7F4E-4A4C-A12D-BC8D982E55B4.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/hair/429201BF-7F4E-4A4C-A12D-BC8D982E55B4.json",
+      "effectKeyName": "Custom Avatar Hair Model Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "C75053FF-7C76-4E27-A8BF-B9EDA421522A.1.avatarmodel",
+      "effectId": "C75053FF-7C76-4E27-A8BF-B9EDA421522A",
+      "fxLicFileName": "C75053FF-7C76-4E27-A8BF-B9EDA421522A.lic",
+      "imageName": "C75053FF-7C76-4E27-A8BF-B9EDA421522A.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/hair/C75053FF-7C76-4E27-A8BF-B9EDA421522A.json",
+      "effectKeyName": "Custom Avatar Hair Model Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "C35494D8-E1ED-4EA1-ACD1-4AD7B0F3029A.1.avatarmodel",
+      "effectId": "C35494D8-E1ED-4EA1-ACD1-4AD7B0F3029A",
+      "fxLicFileName": "C35494D8-E1ED-4EA1-ACD1-4AD7B0F3029A.lic",
+      "imageName": "C35494D8-E1ED-4EA1-ACD1-4AD7B0F3029A.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/hair/C35494D8-E1ED-4EA1-ACD1-4AD7B0F3029A.json",
+      "effectKeyName": "Custom Avatar Hair Model Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "E656906F-B263-4700-985B-21743FDA6305.1.avatarmodel",
+      "effectId": "E656906F-B263-4700-985B-21743FDA6305",
+      "fxLicFileName": "E656906F-B263-4700-985B-21743FDA6305.lic",
+      "imageName": "E656906F-B263-4700-985B-21743FDA6305.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/hair/E656906F-B263-4700-985B-21743FDA6305.json",
+      "effectKeyName": "Custom Avatar Hair Model Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "214E045B-715E-42C9-8B24-A26CE97297B7.1.avatarmodel",
+      "effectId": "214E045B-715E-42C9-8B24-A26CE97297B7",
+      "fxLicFileName": "214E045B-715E-42C9-8B24-A26CE97297B7.lic",
+      "imageName": "214E045B-715E-42C9-8B24-A26CE97297B7.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/hair/214E045B-715E-42C9-8B24-A26CE97297B7.json",
+      "effectKeyName": "Custom Avatar Hair Model Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "F5BCF373-ACBC-419C-BBD9-8C22CD337971.1.avatarmodel",
+      "effectId": "F5BCF373-ACBC-419C-BBD9-8C22CD337971",
+      "fxLicFileName": "F5BCF373-ACBC-419C-BBD9-8C22CD337971.lic",
+      "imageName": "F5BCF373-ACBC-419C-BBD9-8C22CD337971.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/hair/2E321315-7737-40A0-8856-FF570F309D0D.json",
+      "effectKeyName": "Custom Avatar Hair Model Id"
+    },
+    {
+      "name": "",
+      "fxFileName": "76D890E1-CC17-40EB-A22D-B7586E004D66.1.avatarmodel",
+      "effectId": "76D890E1-CC17-40EB-A22D-B7586E004D66",
+      "fxLicFileName": "76D890E1-CC17-40EB-A22D-B7586E004D66.lic",
+      "imageName": "76D890E1-CC17-40EB-A22D-B7586E004D66.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/hair/76D890E1-CC17-40EB-A22D-B7586E004D66.json",
+      "effectKeyName": "Custom Avatar Hair Model Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "9542E61E-8884-4AFA-B39C-B1CCDAE2FCE7.1.avatarmodel",
+      "effectId": "9542E61E-8884-4AFA-B39C-B1CCDAE2FCE7",
+      "fxLicFileName": "9542E61E-8884-4AFA-B39C-B1CCDAE2FCE7.lic",
+      "imageName": "9542E61E-8884-4AFA-B39C-B1CCDAE2FCE7.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/hair/9542E61E-8884-4AFA-B39C-B1CCDAE2FCE7.json",
+      "effectKeyName": "Custom Avatar Hair Model Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "35021AA5-EB33-4971-AB8F-CDBAB522C628.1.avatarmodel",
+      "effectId": "35021AA5-EB33-4971-AB8F-CDBAB522C628",
+      "fxLicFileName": "35021AA5-EB33-4971-AB8F-CDBAB522C628.lic",
+      "imageName": "35021AA5-EB33-4971-AB8F-CDBAB522C628.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/hair/35021AA5-EB33-4971-AB8F-CDBAB522C628.json",
+      "effectKeyName": "Custom Avatar Hair Model Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "ED379F5B-0452-45CB-980B-7D004F0E7E3D.1.avatarmodel",
+      "effectId": "ED379F5B-0452-45CB-980B-7D004F0E7E3D",
+      "fxLicFileName": "ED379F5B-0452-45CB-980B-7D004F0E7E3D.lic",
+      "imageName": "ED379F5B-0452-45CB-980B-7D004F0E7E3D.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/hair/ED379F5B-0452-45CB-980B-7D004F0E7E3D.json",
+      "effectKeyName": "Custom Avatar Hair Model Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "50A58B0D-A296-4DE2-8CF7-CAF90C3ACC00.1.avatarmodel",
+      "effectId": "50A58B0D-A296-4DE2-8CF7-CAF90C3ACC00",
+      "fxLicFileName": "50A58B0D-A296-4DE2-8CF7-CAF90C3ACC00.lic",
+      "imageName": "50A58B0D-A296-4DE2-8CF7-CAF90C3ACC00.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/hair/50A58B0D-A296-4DE2-8CF7-CAF90C3ACC00.json",
+      "effectKeyName": "Custom Avatar Hair Model Id",
+      "type": 0
+    }
+  ]
+}
+

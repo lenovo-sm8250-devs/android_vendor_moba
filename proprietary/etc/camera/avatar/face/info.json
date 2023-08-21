@@ -1,0 +1,49 @@
+{
+  "infoList": [
+    {
+      "name": "head_nobody",
+      "fxFileName": "83B01E5A-7192-40E7-8D79-85C727292257.1.avatarmodel",
+      "effectId": "83B01E5A-7192-40E7-8D79-85C727292257",
+      "fxLicFileName": "83B01E5A-7192-40E7-8D79-85C727292257.lic",
+      "imageName": "83B01E5A-7192-40E7-8D79-85C727292257.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/face/83B01E5A-7192-40E7-8D79-85C727292257.json",
+      "effectKeyName": "Custom Avatar Face Model Id",
+      "type": 0
+    },
+    {
+      "name": "FACE_MODEL_TYPE_CIRCLE_FACE",
+      "fxFileName": "",
+      "effectId": "1",
+      "fxLicFileName": "",
+      "imageName": "face_type_circle.png",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Malar Type",
+      "type": 1
+    },
+    {
+      "name": "FACE_MODEL_TYPE_RECT_FACE",
+      "fxFileName": "",
+      "effectId": "2",
+      "fxLicFileName": "",
+      "imageName": "face_type_rect.png",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Malar Type",
+      "type": 1
+    },
+    {
+      "name": "FACE_MODEL_TYPE_MELON_FACE",
+      "fxFileName": "",
+      "effectId": "3",
+      "fxLicFileName": "",
+      "imageName": "face_type_seed.png",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Malar Type",
+      "type": 1
+    }
+  ]
+}
+

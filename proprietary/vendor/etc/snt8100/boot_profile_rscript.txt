@@ -1,0 +1,97 @@
+# PH_1001c_LP_Pixie
+# version 1.5   05/07/20
+#
+
+# Disable touch Processing
+0x01 1 0
+
+# Tap new format version 0
+0x2c 3 0 8 0x0802 #Tap header offset 0, size = 8 bytes
+0x200 4 0x0010 0x0 0x0 0x0   # NFI=1, Version=0
+
+# Tap0 Top region
+0x2c 3 8 20 0x0802 #Tap header offset 8, size = 20 bytes
+0x200 10
+0x0c19         # init_force=12, bar_id=1, SID=1, en=1
+0x1107         # trig_id = 8, gre=1, slope_window=7
+0 0xffff       # set entire bar as active region
+0xffff         # delta tap/release force off
+0x0504         # slope_detect_force=4, slope_release_fore=5
+0 0            # palm_reject_thresh=0, drag_reject_thresh=0
+0xc000 0       # adaptive_thresh_timeout, reserved
+
+
+# Tap1 Bottom region
+0x2c 3 28 20 0x0802 # Tap3 is offset 28, only write ctrl register
+0x200 10
+0x0c09         # init_force=12, bar_id=0, SID=1, en=1
+0x0f07         # trig_id = 7, gre=1, slope_window=7
+0 0xffff       # set entire bar as active region .
+0xffff         # delta tap/release force off
+0x0504         # slope_detect_force=4, slope_release_fore=5
+0 0            # palm_reject_thresh=0, drag_reject_thresh=0
+0xc000 0       # adaptive_thresh_timeout, reserved
+
+
+# Commit Tap Config Banks
+0x2c 3 0 0 0x0803
+
+# Slider0   Top region
+0x2c 3 0 12 0x0b02
+0x200 6
+0xc101         # en=1, tpri=1, report relative position=0, bar_id=1, gre=1
+0x0 0xffff     # set detection area to the whole bar 0
+0x3007         # detect_move_quanta = 48 (3mm), forect_threshold = 7
+0x0008 0       # report_move_quanta = 8 (0.5mm)
+
+
+# Slider1 Bottom region
+0x2c 3 12 12 0x0b02
+0x200 6
+0xc001         # en=1, tpri=1, report relative position=0, bar_id=0, gre=1
+0x0 0xffff     # set detection area to the whole bar 0
+0x3007         # move_quanta = 48 (3mm), forect_threshold = 7
+0x0008 0       # report_move_quanta = 8 (0.5mm)
+
+0x2c 3 0 0 0x0b03
+
+# Trigger Control registers
+#
+# Trigger1 – Level, nonrepeating
+# Trigger2 – Level, nonrepeating
+# Trigger3 – Level, nonrepeating
+# Trigger4 – Level, nonrepeating
+# Trigger5 – Level, nonrepeating
+# Trigger6 – Level, nonrepeating
+# Trigger7 – Level, nonrepeating
+# Trigger8 – Level, nonrepeating
+0x10 2 0x0000 0x0000
+
+# Trigger Activity Indicator (TAI)
+#
+# TAI Trigger1
+# TAI Trigger2
+# Attached Triggers: 7 8
+0x1a 1 0x0140
+0x1b 1 0x0280
+
+# Trigger Pulse Duration
+# Trigger4 – Pulse width 16ms (0x8f - 127 = 16)
+0x1d 1 0x7f00
+
+# Turn off Track Reports in TFIFO (STR bit 4)
+0x40 1 8
+#turn on performance detection mode
+0x3d 1 0x0080
+
+# Set up Dynamic Power Control (DPC)
+# HighResFrameRate=50Hz
+# LowResFrameRate=20Hz
+# IdleTimout=2seconds
+# AccessOnTFifo=1
+0x39 3 100 20 0x87d0
+
+# Re-enable Touch Processing
+0x01 1 1
+
+

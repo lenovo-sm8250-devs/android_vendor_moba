@@ -1,0 +1,71 @@
+{
+  "infoList": [
+    {
+      "name": "white",
+      "fxFileName": "",
+      "effectId": "#ffd5cfcb",
+      "fxLicFileName": "",
+      "imageName": "",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Hair Color",
+      "type": 2
+    },
+    {
+      "name": "red",
+      "fxFileName": "",
+      "effectId": "#ffd5b782",
+      "fxLicFileName": "",
+      "imageName": "",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Hair Color",
+      "type": 2
+    },
+    {
+      "name": "red",
+      "fxFileName": "",
+      "effectId": "#ff362921",
+      "fxLicFileName": "",
+      "imageName": "",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Hair Color",
+      "type": 2
+    },
+    {
+      "name": "red",
+      "fxFileName": "",
+      "effectId": "#ff2d2c2b",
+      "fxLicFileName": "",
+      "imageName": "",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Hair Color",
+      "type": 2
+    },
+    {
+      "name": "red",
+      "fxFileName": "",
+      "effectId": "#ff76352e",
+      "fxLicFileName": "",
+      "imageName": "",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Hair Color",
+      "type": 2
+    },
+    {
+      "name": "red",
+      "fxFileName": "",
+      "effectId": "#ff4c5a83",
+      "fxLicFileName": "",
+      "imageName": "",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Hair Color",
+      "type": 2
+    }
+  ]
+}
+

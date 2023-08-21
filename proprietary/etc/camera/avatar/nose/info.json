@@ -1,0 +1,77 @@
+{
+  "infoList": [
+    {
+      "name": "nose_bridge_high",
+      "effectId": "no effect",
+      "fxFileName": "",
+      "fxLicFileName": "",
+      "imageName": "nose_bridge_high.png",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Nose Bridge Height",
+      "type": 3,
+      "identity": 1
+    },
+    {
+      "name": "nose_bridge_normal",
+      "effectId": "no effect",
+      "fxFileName": "",
+      "fxLicFileName": "",
+      "imageName": "nose_bridge_normal.png",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Nose Bridge Height",
+      "type": 3,
+      "identity": 0
+    },
+    {
+      "name": "nose_bridge_low",
+      "effectId": "no effect",
+      "fxFileName": "",
+      "fxLicFileName": "",
+      "imageName": "nose_bridge_low.png",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Nose Bridge Height",
+      "type": 3,
+      "identity": -1
+    },
+    {
+      "name": "nose_tip_large",
+      "effectId": "no effect",
+      "fxFileName": "",
+      "fxLicFileName": "",
+      "imageName": "nose_tip_large.png",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Nose Tip Size",
+      "type": 3,
+      "identity": 1
+    },
+    {
+      "name": "nose_tip_normal",
+      "fxFileName": "",
+      "effectId": "no effect",
+      "imageName": "nose_tip_normal.png",
+      "fxLicFileName": "",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Nose Tip Size",
+      "type": 3,
+      "identity": 0
+    },
+    {
+      "name": "nose_tip_small",
+      "effectId": "no effect",
+      "fxFileName": "",
+      "fxLicFileName": "",
+      "imageName": "nose_tip_small.png",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Nose Tip Size",
+      "type": 3,
+      "identity": -1
+    }
+  ]
+}
+

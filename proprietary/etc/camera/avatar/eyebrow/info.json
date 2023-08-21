@@ -1,0 +1,104 @@
+{
+  "infoList": [
+    {
+      "name": "",
+      "fxFileName": "5D20FF40-088D-4C44-8DD5-AB6EF6A7139D.1.avatarmodel",
+      "effectId": "5D20FF40-088D-4C44-8DD5-AB6EF6A7139D",
+      "fxLicFileName": "5D20FF40-088D-4C44-8DD5-AB6EF6A7139D.lic",
+      "imageName": "5D20FF40-088D-4C44-8DD5-AB6EF6A7139D.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/eyebrow/5D20FF40-088D-4C44-8DD5-AB6EF6A7139D.json",
+      "effectKeyName": "Custom Avatar Eyebrow Model Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "CFA6BF48-24A0-4C37-8710-780CF1E46E7E.1.avatarmaterial",
+      "effectId": "CFA6BF48-24A0-4C37-8710-780CF1E46E7E",
+      "fxLicFileName": "CFA6BF48-24A0-4C37-8710-780CF1E46E7E.lic",
+      "imageName": "CFA6BF48-24A0-4C37-8710-780CF1E46E7E.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/eyebrow/CFA6BF48-24A0-4C37-8710-780CF1E46E7E.json",
+      "effectKeyName": "Custom Avatar Eyebrow Material Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "E10405CE-652F-49AB-9F9C-87E27F6CD845.1.avatarmaterial",
+      "effectId": "E10405CE-652F-49AB-9F9C-87E27F6CD845",
+      "fxLicFileName": "E10405CE-652F-49AB-9F9C-87E27F6CD845.lic",
+      "imageName": "E10405CE-652F-49AB-9F9C-87E27F6CD845.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/eyebrow/E10405CE-652F-49AB-9F9C-87E27F6CD845.json",
+      "effectKeyName": "Custom Avatar Eyebrow Material Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "4FFE343F-D5EA-4317-A500-3DF8C7314D76.1.avatarmaterial",
+      "effectId": "4FFE343F-D5EA-4317-A500-3DF8C7314D76",
+      "fxLicFileName": "4FFE343F-D5EA-4317-A500-3DF8C7314D76.lic",
+      "imageName": "4FFE343F-D5EA-4317-A500-3DF8C7314D76.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/eyebrow/4FFE343F-D5EA-4317-A500-3DF8C7314D76.json",
+      "effectKeyName": "Custom Avatar Eyebrow Material Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "07B943D5-3242-4D2D-9AD4-DD73BA5357E8.1.avatarmaterial",
+      "effectId": "07B943D5-3242-4D2D-9AD4-DD73BA5357E8",
+      "fxLicFileName": "07B943D5-3242-4D2D-9AD4-DD73BA5357E8.lic",
+      "imageName": "07B943D5-3242-4D2D-9AD4-DD73BA5357E8.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/eyebrow/07B943D5-3242-4D2D-9AD4-DD73BA5357E8.json",
+      "effectKeyName": "Custom Avatar Eyebrow Material Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "9E10791F-0402-4311-B0A8-06C4C6E8E635.1.avatarmaterial",
+      "effectId": "9E10791F-0402-4311-B0A8-06C4C6E8E635",
+      "fxLicFileName": "9E10791F-0402-4311-B0A8-06C4C6E8E635.lic",
+      "imageName": "9E10791F-0402-4311-B0A8-06C4C6E8E635.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/eyebrow/9E10791F-0402-4311-B0A8-06C4C6E8E635.json",
+      "effectKeyName": "Custom Avatar Eyebrow Material Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "79F78899-3EF8-4F94-B93B-DDBFF02A4DD5.1.avatarmaterial",
+      "effectId": "79F78899-3EF8-4F94-B93B-DDBFF02A4DD5",
+      "fxLicFileName": "79F78899-3EF8-4F94-B93B-DDBFF02A4DD5.lic",
+      "imageName": "79F78899-3EF8-4F94-B93B-DDBFF02A4DD5.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/eyebrow/79F78899-3EF8-4F94-B93B-DDBFF02A4DD5.json",
+      "effectKeyName": "Custom Avatar Eyebrow Material Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "944375C1-1C03-4063-BCB8-652D7DB0AD82.1.avatarmaterial",
+      "effectId": "944375C1-1C03-4063-BCB8-652D7DB0AD82",
+      "fxLicFileName": "944375C1-1C03-4063-BCB8-652D7DB0AD82.lic",
+      "imageName": "944375C1-1C03-4063-BCB8-652D7DB0AD82.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/eyebrow/944375C1-1C03-4063-BCB8-652D7DB0AD82.json",
+      "effectKeyName": "Custom Avatar Eyebrow Material Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "E583AAEE-52E8-426E-A9E4-C02E5F49285B.1.avatarmaterial",
+      "effectId": "E583AAEE-52E8-426E-A9E4-C02E5F49285B",
+      "fxLicFileName": "E583AAEE-52E8-426E-A9E4-C02E5F49285B.lic",
+      "imageName": "E583AAEE-52E8-426E-A9E4-C02E5F49285B.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/eyebrow/E583AAEE-52E8-426E-A9E4-C02E5F49285B.json",
+      "effectKeyName": "Custom Avatar Eyebrow Material Id",
+      "type": 0
+    }
+  ]
+}
+

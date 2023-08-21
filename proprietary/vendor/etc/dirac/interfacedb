@@ -1,0 +1,99 @@
+<InterfaceDb>
+  <Usecases>
+    <Usecase name="USECASE_INTERNAL_PANORAMA">
+      <Parameters>
+        <Parameter id="1" name="Rotation" defaultValue="0"/>
+        <Parameter id="2" name="Stereo width" defaultValue="0"/>
+        <Parameter id="3" name="Tonal Balance" defaultValue="0"/>
+      </Parameters>
+      <Modes>
+        <Mode name="0">
+          <Parameter id="1" value="0"/>
+          <Parameter id="2" value="0"/>
+          <Parameter id="3" value="0"/>
+        </Mode>
+        <Mode name="1">
+          <Parameter id="1" value="1"/>
+          <Parameter id="2" value="1"/>
+          <Parameter id="3" value="1"/>
+        </Mode>
+      </Modes>
+    </Usecase>
+    <Usecase name="USECASE_INTERNAL_CUSTOM1">
+      <Parameters>
+        <Parameter id="1" name="Rotation" defaultValue="0"/>
+        <Parameter id="2" name="Stereo width" defaultValue="0"/>
+        <Parameter id="3" name="Tonal Balance" defaultValue="0"/>
+      </Parameters>
+      <Modes>
+        <Mode name="0">
+          <Parameter id="1" value="0"/>
+          <Parameter id="2" value="0"/>
+          <Parameter id="3" value="0"/>
+        </Mode>
+        <Mode name="1">
+          <Parameter id="1" value="1"/>
+          <Parameter id="2" value="1"/>
+          <Parameter id="3" value="1"/>
+        </Mode>
+      </Modes>
+    </Usecase>
+    <Usecase name="USECASE_INTERNAL_CUSTOM2">
+      <Parameters>
+        <Parameter id="1" name="Rotation" defaultValue="0"/>
+        <Parameter id="2" name="Stereo width" defaultValue="0"/>
+        <Parameter id="3" name="Tonal Balance" defaultValue="0"/>
+      </Parameters>
+      <Modes>
+        <Mode name="0">
+          <Parameter id="1" value="0"/>
+          <Parameter id="2" value="0"/>
+          <Parameter id="3" value="0"/>
+        </Mode>
+        <Mode name="1">
+          <Parameter id="1" value="1"/>
+          <Parameter id="2" value="1"/>
+          <Parameter id="3" value="1"/>
+        </Mode>
+      </Modes>
+    </Usecase>
+    <Usecase name="USECASE_INTERNAL_CUSTOM3">
+      <Parameters>
+        <Parameter id="1" name="Rotation" defaultValue="0"/>
+        <Parameter id="2" name="Stereo width" defaultValue="0"/>
+        <Parameter id="3" name="Tonal Balance" defaultValue="0"/>
+      </Parameters>
+      <Modes>
+        <Mode name="0">
+          <Parameter id="1" value="0"/>
+          <Parameter id="2" value="0"/>
+          <Parameter id="3" value="0"/>
+        </Mode>
+        <Mode name="1">
+          <Parameter id="1" value="1"/>
+          <Parameter id="2" value="1"/>
+          <Parameter id="3" value="1"/>
+        </Mode>
+      </Modes>
+    </Usecase>
+    <Usecase name="USECASE_INTERNAL_CUSTOM4">
+      <Parameters>
+        <Parameter id="1" name="Rotation" defaultValue="0"/>
+        <Parameter id="2" name="Stereo width" defaultValue="0"/>
+        <Parameter id="3" name="Tonal Balance" defaultValue="0"/>
+      </Parameters>
+      <Modes>
+        <Mode name="0">
+          <Parameter id="1" value="0"/>
+          <Parameter id="2" value="0"/>
+          <Parameter id="3" value="0"/>
+        </Mode>
+        <Mode name="1">
+          <Parameter id="1" value="1"/>
+          <Parameter id="2" value="1"/>
+          <Parameter id="3" value="1"/>
+        </Mode>
+      </Modes>
+    </Usecase>
+  </Usecases>
+</InterfaceDb>

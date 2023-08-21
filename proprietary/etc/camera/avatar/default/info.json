@@ -1,0 +1,102 @@
+{
+  "infoList": [
+    {
+      "name": "female",
+      "carverId": "0",
+      "hasEffect": "1",
+      "effectList": [
+        {
+          "name": "head_no_body",
+          "fxFileName": "/system/etc/camera/avatar/face/83B01E5A-7192-40E7-8D79-85C727292257.1.avatarmodel",
+          "effectId": "83B01E5A-7192-40E7-8D79-85C727292257",
+          "fxLicFileName": "83B01E5A-7192-40E7-8D79-85C727292257.lic",
+          "imageName": "83B01E5A-7192-40E7-8D79-85C727292257.png",
+          "jsonName": "avatar/face/83B01E5A-7192-40E7-8D79-85C727292257.json",
+          "effectKeyName": "Custom Avatar Face Model Id",
+          "type": 0
+        },
+        {
+          "name": "head_only_body",
+          "fxFileName": "/system/etc/camera/avatar/face/14BC1045-4111-4152-8464-788B5A9F69F4.1.avatarmodel",
+          "effectId": "14BC1045-4111-4152-8464-788B5A9F69F4",
+          "fxLicFileName": "14BC1045-4111-4152-8464-788B5A9F69F4.lic",
+          "imageName": "14BC1045-4111-4152-8464-788B5A9F69F4.png",
+          "jsonName": "avatar/face/14BC1045-4111-4152-8464-788B5A9F69F4.json",
+          "effectKeyName": "Custom Avatar Body Model Id",
+          "type": 0
+        },
+        {
+          "name": "hair_female",
+          "fxFileName": "/system/etc/camera/avatar/hair/C35494D8-E1ED-4EA1-ACD1-4AD7B0F3029A.1.avatarmodel",
+          "effectId": "C35494D8-E1ED-4EA1-ACD1-4AD7B0F3029A",
+          "fxLicFileName": "C35494D8-E1ED-4EA1-ACD1-4AD7B0F3029A.lic",
+          "imageName": "C35494D8-E1ED-4EA1-ACD1-4AD7B0F3029A.png",
+          "fitRatio": 127,
+          "jsonName": "avatar/hair/C35494D8-E1ED-4EA1-ACD1-4AD7B0F3029A.json",
+          "effectKeyName": "Custom Avatar Hair Model Id",
+          "type": 0
+        },
+        {
+          "name": "eyebrow_model",
+          "fxFileName": "/system/etc/camera/avatar/eyebrow/5D20FF40-088D-4C44-8DD5-AB6EF6A7139D.1.avatarmodel",
+          "effectId": "5D20FF40-088D-4C44-8DD5-AB6EF6A7139D",
+          "fxLicFileName": "5D20FF40-088D-4C44-8DD5-AB6EF6A7139D.lic",
+          "imageName": "5D20FF40-088D-4C44-8DD5-AB6EF6A7139D.png",
+          "fitRatio": 127,
+          "jsonName": "avatar/eyebrow/5D20FF40-088D-4C44-8DD5-AB6EF6A7139D.json",
+          "effectKeyName": "Custom Avatar Eyebrow Model Id",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "male",
+      "carverId": "0",
+      "hasEffect": "1",
+      "effectList": [
+        {
+          "name": "head_no_body",
+          "fxFileName": "/system/etc/camera/avatar/face/83B01E5A-7192-40E7-8D79-85C727292257.1.avatarmodel",
+          "effectId": "83B01E5A-7192-40E7-8D79-85C727292257",
+          "fxLicFileName": "83B01E5A-7192-40E7-8D79-85C727292257.lic",
+          "imageName": "83B01E5A-7192-40E7-8D79-85C727292257.png",
+          "jsonName": "avatar/face/83B01E5A-7192-40E7-8D79-85C727292257.json",
+          "effectKeyName": "Custom Avatar Face Model Id",
+          "type": 0
+        },
+        {
+          "name": "head_only_body",
+          "fxFileName": "/system/etc/camera/avatar/face/14BC1045-4111-4152-8464-788B5A9F69F4.1.avatarmodel",
+          "effectId": "14BC1045-4111-4152-8464-788B5A9F69F4",
+          "fxLicFileName": "14BC1045-4111-4152-8464-788B5A9F69F4.lic",
+          "imageName": "14BC1045-4111-4152-8464-788B5A9F69F4.png",
+          "jsonName": "avatar/face/14BC1045-4111-4152-8464-788B5A9F69F4.json",
+          "effectKeyName": "Custom Avatar Body Model Id",
+          "type": 0
+        },
+        {
+          "name": "hair_male",
+          "fxFileName": "/system/etc/camera/avatar/hair/F5BCF373-ACBC-419C-BBD9-8C22CD337971.1.avatarmodel",
+          "effectId": "F5BCF373-ACBC-419C-BBD9-8C22CD337971",
+          "fxLicFileName": "F5BCF373-ACBC-419C-BBD9-8C22CD337971.lic",
+          "imageName": "F5BCF373-ACBC-419C-BBD9-8C22CD337971.png",
+          "jsonName": "avatar/hair/F5BCF373-ACBC-419C-BBD9-8C22CD337971.json",
+          "effectKeyName": "Custom Avatar Hair Model Id",
+          "type": 0
+        },
+        {
+          "name": "eyebrow_model",
+          "fxFileName": "/system/etc/camera/avatar/eyebrow/5D20FF40-088D-4C44-8DD5-AB6EF6A7139D.1.avatarmodel",
+          "effectId": "5D20FF40-088D-4C44-8DD5-AB6EF6A7139D",
+          "fxLicFileName": "5D20FF40-088D-4C44-8DD5-AB6EF6A7139D.lic",
+          "imageName": "5D20FF40-088D-4C44-8DD5-AB6EF6A7139D.png",
+          "fitRatio": 127,
+          "jsonName": "avatar/eyebrow/5D20FF40-088D-4C44-8DD5-AB6EF6A7139D.json",
+          "effectKeyName": "Custom Avatar Eyebrow Model Id",
+          "type": 0
+        }
+      ]
+    }
+  ]
+}
+

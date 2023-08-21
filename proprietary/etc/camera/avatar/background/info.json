@@ -1,0 +1,17 @@
+{
+  "color key" : "",
+  "infoList": [
+    {
+      "name": "",
+      "fxFileName": "83B01E5A-7192-40E7-8D79-85C727292257.avatarmodel",
+      "effectId": "1",
+      "fxLicFileName": "83B01E5A-7192-40E7-8D79-85C727292257.lic",
+      "imageName": "83B01E5A-7192-40E7-8D79-85C727292257.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/face/83B01E5A-7192-40E7-8D79-85C727292257.json",
+      "effectKeyName": "Custom Avatar Background Model Id",
+      "type": 0
+    }
+  ]
+}
+

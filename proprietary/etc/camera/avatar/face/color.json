@@ -1,0 +1,60 @@
+{
+  "infoList": [
+    {
+      "name": "white",
+      "fxFileName": "",
+      "effectId": "#fff6dfd2",
+      "fxLicFileName": "",
+      "imageName": "",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Skin Color",
+      "type": 2
+    },
+    {
+      "name": "red",
+      "fxFileName": "",
+      "effectId": "#fff1d1bc",
+      "fxLicFileName": "",
+      "imageName": "",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Skin Color",
+      "type": 2
+    },
+    {
+      "name": "red",
+      "fxFileName": "",
+      "effectId": "#FFd9b194",
+      "fxLicFileName": "",
+      "imageName": "",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Skin Color",
+      "type": 2
+    },
+    {
+      "name": "red",
+      "fxFileName": "",
+      "effectId": "#FFbd947c",
+      "fxLicFileName": "",
+      "imageName": "",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Skin Color",
+      "type": 2
+    },
+    {
+      "name": "red",
+      "fxFileName": "",
+      "effectId": "#FF50331d",
+      "fxLicFileName": "",
+      "imageName": "",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Skin Color",
+      "type": 2
+    }
+  ]
+}
+

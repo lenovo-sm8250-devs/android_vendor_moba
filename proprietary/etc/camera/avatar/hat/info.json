@@ -1,0 +1,76 @@
+{
+  "infoList": [
+    {
+      "name": "",
+      "fxFileName": "",
+      "effectId": "",
+      "fxLicFileName": "",
+      "imageName": "none.png",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Hat Model Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "5AD83897-B51D-44E2-B41B-CFA934AFA00D.1.avatarmodel",
+      "effectId": "5AD83897-B51D-44E2-B41B-CFA934AFA00D",
+      "fxLicFileName": "5AD83897-B51D-44E2-B41B-CFA934AFA00D.lic",
+      "imageName": "5AD83897-B51D-44E2-B41B-CFA934AFA00D.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/hat/5AD83897-B51D-44E2-B41B-CFA934AFA00D.json",
+      "effectKeyName": "Custom Avatar Hat Model Id",
+      "type": 0
+
+    },
+    {
+      "name": "",
+      "fxFileName": "AC649E29-A5DD-4033-9F24-857DA6BE247E.1.avatarmodel",
+      "effectId": "AC649E29-A5DD-4033-9F24-857DA6BE247E",
+      "fxLicFileName": "AC649E29-A5DD-4033-9F24-857DA6BE247E.lic",
+      "imageName": "AC649E29-A5DD-4033-9F24-857DA6BE247E.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/hat/AC649E29-A5DD-4033-9F24-857DA6BE247E.json",
+      "effectKeyName": "Custom Avatar Hat Model Id",
+      "type": 0
+
+    },
+    {
+      "name": "",
+      "fxFileName": "4320E0DC-603A-40A1-BB74-C0BE0F62D017.1.avatarmodel",
+      "effectId": "4320E0DC-603A-40A1-BB74-C0BE0F62D017",
+      "fxLicFileName": "4320E0DC-603A-40A1-BB74-C0BE0F62D017.lic",
+      "imageName": "4320E0DC-603A-40A1-BB74-C0BE0F62D017.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/hat/4320E0DC-603A-40A1-BB74-C0BE0F62D017.json",
+      "effectKeyName": "Custom Avatar Hat Model Id",
+      "type": 0
+
+    },
+    {
+      "name": "",
+      "fxFileName": "F4D3F2A7-A37D-4FFD-AF16-D4CFAF0EAFD6.1.avatarmodel",
+      "effectId": "F4D3F2A7-A37D-4FFD-AF16-D4CFAF0EAFD6",
+      "fxLicFileName": "F4D3F2A7-A37D-4FFD-AF16-D4CFAF0EAFD6.lic",
+      "imageName": "F4D3F2A7-A37D-4FFD-AF16-D4CFAF0EAFD6.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/hat/F4D3F2A7-A37D-4FFD-AF16-D4CFAF0EAFD6.json",
+      "effectKeyName": "Custom Avatar Hat Model Id",
+      "type": 0
+
+    }, {
+      "name": "",
+      "fxFileName": "EEC8767B-97D4-49F6-B5D8-A3B23859B56E.1.avatarmodel",
+      "effectId": "EEC8767B-97D4-49F6-B5D8-A3B23859B56E",
+      "fxLicFileName": "EEC8767B-97D4-49F6-B5D8-A3B23859B56E.lic",
+      "imageName": "EEC8767B-97D4-49F6-B5D8-A3B23859B56E.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/hat/EEC8767B-97D4-49F6-B5D8-A3B23859B56E.json",
+      "effectKeyName": "Custom Avatar Hat Model Id",
+      "type": 0
+
+    },
+
+  ]
+}
+

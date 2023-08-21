@@ -1,0 +1,41 @@
+{
+  "infoList": [
+    {
+      "name": "MOUTH_TYPE_NORMAL",
+      "fxFileName": "",
+      "effectId": "no effect",
+      "fxLicFileName": "",
+      "imageName": "mouth_normal.png",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Lip Thickness",
+      "type": 3,
+      "identity": 0
+    },
+    {
+      "name": "MOUTH_TYPE_THIN",
+      "fxFileName": "",
+      "effectId": "no effect",
+      "fxLicFileName": "",
+      "imageName": "mouth_thin.png",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Lip Thickness",
+      "type": 3,
+      "identity": -1
+    },
+    {
+      "name": "MOUTH_TYPE_THICK",
+      "fxFileName": "",
+      "effectId": "no effect",
+      "fxLicFileName": "",
+      "imageName": "mouth_thick.png",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Lip Thickness",
+      "type": 3,
+      "identity": 1
+    }
+  ]
+}
+

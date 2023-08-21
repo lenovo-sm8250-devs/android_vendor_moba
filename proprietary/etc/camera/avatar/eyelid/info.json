@@ -1,0 +1,49 @@
+{
+  "infoList": [
+    {
+      "name": "",
+      "fxFileName": "42F93175-EDD7-4BD5-AF14-E8422E1345FC.1.avatarmodel",
+      "effectId": "42F93175-EDD7-4BD5-AF14-E8422E1345FC",
+      "fxLicFileName": "42F93175-EDD7-4BD5-AF14-E8422E1345FC.lic",
+      "imageName": "42F93175-EDD7-4BD5-AF14-E8422E1345FC.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/eyelid/42F93175-EDD7-4BD5-AF14-E8422E1345FC.json",
+      "effectKeyName": "Custom Avatar Eyeliner Model Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "140DD121-5ECE-4D3A-8691-AB5B6E588A0D.1.avatarmaterial",
+      "effectId": "140DD121-5ECE-4D3A-8691-AB5B6E588A0D",
+      "fxLicFileName": "140DD121-5ECE-4D3A-8691-AB5B6E588A0D.lic",
+      "imageName": "140DD121-5ECE-4D3A-8691-AB5B6E588A0D.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/eyelid/140DD121-5ECE-4D3A-8691-AB5B6E588A0D.json",
+      "effectKeyName": "Custom Avatar Eyeliner Material Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "162E5BF0-B4F4-413D-8A4F-40E720CA74B4.1.avatarmaterial",
+      "effectId": "162E5BF0-B4F4-413D-8A4F-40E720CA74B4",
+      "fxLicFileName": "162E5BF0-B4F4-413D-8A4F-40E720CA74B4.lic",
+      "imageName": "162E5BF0-B4F4-413D-8A4F-40E720CA74B4.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/eyelid/162E5BF0-B4F4-413D-8A4F-40E720CA74B4.json",
+      "effectKeyName": "Custom Avatar Eyeliner Material Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "B1061E2E-3E67-4BE0-8E8F-B247B08E19FB.1.avatarmaterial",
+      "effectId": "B1061E2E-3E67-4BE0-8E8F-B247B08E19FB",
+      "fxLicFileName": "B1061E2E-3E67-4BE0-8E8F-B247B08E19FB.lic",
+      "imageName": "B1061E2E-3E67-4BE0-8E8F-B247B08E19FB.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/eyelid/B1061E2E-3E67-4BE0-8E8F-B247B08E19FB.json",
+      "effectKeyName": "Custom Avatar Eyeliner Material Id",
+      "type": 0
+    }
+  ]
+}
+

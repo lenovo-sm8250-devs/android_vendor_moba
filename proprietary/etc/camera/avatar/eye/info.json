@@ -1,0 +1,49 @@
+{
+  "infoList": [
+    {
+      "name": "EYE_TYPE_APRICOT",
+      "fxFileName": "",
+      "effectId": "2",
+      "fxLicFileName": "",
+      "imageName": "eye_type_apricot.png",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Eye Type",
+      "type": 1
+    },
+    {
+      "name": "EYE_TYPE_PEACH",
+      "fxFileName": "",
+      "effectId": "1",
+      "fxLicFileName": "",
+      "imageName": "eye_type_peach.png",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Eye Type",
+      "type": 1
+    },
+    {
+      "name": "EYE_TYPE_PHOENIX",
+      "fxFileName": "",
+      "effectId": "3",
+      "fxLicFileName": "",
+      "imageName": "eye_type_phoenix.png",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Eye Type",
+      "type": 1
+    },
+    {
+      "name": "EYE_TYPE_CIRCLE",
+      "fxFileName": "",
+      "effectId": "0",
+      "fxLicFileName": "",
+      "imageName": "eye_type_circle.png",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Eye Type",
+      "type": 1
+    }
+  ]
+}
+

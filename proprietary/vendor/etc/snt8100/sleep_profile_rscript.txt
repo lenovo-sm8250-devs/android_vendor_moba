@@ -1,0 +1,62 @@
+# PH_1001_LP_Pixie
+# version 1.1   03/11/20
+#
+
+# Disable touch Processing
+0x01 1 0
+
+
+# Tap new format version 0
+0x2c 3 0 8 0x0802 #Tap header offset 0, only write ctrl register
+0x200 4 0x0010 0x0 0x0 0x0   # NFI=1, Version=0
+
+
+# Tap0 Top region
+0x2c 3 8 2 0x0802 #Tap header offset 8, only write ctrl register
+0x200 1
+0x0a10         # init_force=10, bar_id=1, en=0
+
+
+# Tap1 Vol Down
+0x2c 3 28 2 0x0802 # Tap1 is offset 28, only write ctrl register
+0x200 1
+0x0a70         # init_force=10, bar_id=7, en=0
+
+
+# Tap2 Vol Up
+0x2c 3 48 2 0x0802 # Tap2 is offset 48, only write ctrl register
+0x200 1
+0x0a70        # init_force=10, bar_id=7, en=0
+
+
+# Tap3 Bottom region
+0x2c 3 68 2 0x0802 # Tap3 is offset 68, only write ctrl register
+0x200 1
+0x0a00     # init_force=10, bar_id=0, en=0
+
+
+# Commit Tap Config Banks
+0x2c 3 0 0 0x0803
+
+
+# Slider0   Top region
+0x2c 3 12 2 0x0b02
+0x200 1
+0x0000         # en=0, report relative position=0, bar_id=0, gre=0
+
+
+# Slider1 Bottom region
+0x2c 3 24 2 0x0b02
+0x200 1
+0x0000         # en=0, report relative position=0, bar_id=0, gre=0
+
+0x2c 3 0 0 0x0b03
+
+
+# Set up Dynamic Power Control (DPC)
+# HighResFrameRate=50Hz
+# LowResFrameRate=2Hz
+# IdleTimout=2seconds
+# WakeOnActivity=0
+0x39 3 50 2 0x87d0
+

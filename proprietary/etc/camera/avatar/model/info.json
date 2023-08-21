@@ -1,0 +1,55 @@
+{
+  "infoList": [
+    {
+      "effectType": "face",
+      "effectName": "Custom Avatar Face Model Id",
+      "effectTypeName": "脸型"
+    },
+    {
+      "effectType": "hair",
+      "effectName": "Custom Avatar Hair Model Id",
+      "effectTypeName": "发型"
+    },
+    {
+      "effectType": "eye",
+      "effectName": "Custom Avatar Eye Type",
+      "effectTypeName": "眼睛"
+    },
+    {
+      "effectType": "glasses",
+      "effectName": "Custom Avatar Glasses Model Id",
+      "effectTypeName": "眼镜"
+    },
+    {
+      "effectType": "eyelid",
+      "effectName": "Custom Avatar Eyeliner Model Id",
+      "effectTypeName": "眼皮"
+    },
+    {
+      "effectType": "eyebrow",
+      "effectName": "Custom Avatar Eyebrow Model Id",
+      "effectTypeName": "眉毛"
+    },
+    {
+      "effectType": "hat",
+      "effectName": "Custom Avatar Hat Model Id",
+      "effectTypeName": "帽子"
+    },
+    {
+      "effectType":"beard",
+      "effectName":"Custom Avatar Mustache Model Id",
+      "effectTypeName": "胡须"
+    },
+    {
+      "effectType":"nose",
+      "effectName":"Custom Avatar Nose Bridge Height|Custom Avatar Nose Tip Size",
+      "effectTypeName": "鼻子"
+    },
+    {
+      "effectType":"mouth",
+      "effectName":"Custom Avatar Lip Thickness",
+      "effectTypeName": "嘴型"
+    }
+  ]
+}
+

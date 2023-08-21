@@ -1,0 +1,71 @@
+{
+  "infoList": [
+    {
+      "name": "",
+      "fxFileName": "",
+      "effectId": "",
+      "fxLicFileName": "",
+      "imageName": "none.png",
+      "fitRatio": 127,
+      "jsonName": "",
+      "effectKeyName": "Custom Avatar Glasses Model Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "F31146F5-3216-48B2-9D9E-C2E121053A7B.1.avatarmodel",
+      "effectId": "F31146F5-3216-48B2-9D9E-C2E121053A7B",
+      "fxLicFileName": "F31146F5-3216-48B2-9D9E-C2E121053A7B.lic",
+      "imageName": "F31146F5-3216-48B2-9D9E-C2E121053A7B.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/glasses/F31146F5-3216-48B2-9D9E-C2E121053A7B.json",
+      "effectKeyName": "Custom Avatar Glasses Model Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "A96BA557-6FB5-4E67-8256-CFCCA348F892.1.avatarmodel",
+      "effectId": "A96BA557-6FB5-4E67-8256-CFCCA348F892",
+      "fxLicFileName": "A96BA557-6FB5-4E67-8256-CFCCA348F892.lic",
+      "imageName": "A96BA557-6FB5-4E67-8256-CFCCA348F892.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/glasses/A96BA557-6FB5-4E67-8256-CFCCA348F892.json",
+      "effectKeyName": "Custom Avatar Glasses Model Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "915AD221-3AE2-49AE-A24F-073DBE263581.1.avatarmodel",
+      "effectId": "915AD221-3AE2-49AE-A24F-073DBE263581",
+      "fxLicFileName": "915AD221-3AE2-49AE-A24F-073DBE263581.lic",
+      "imageName": "915AD221-3AE2-49AE-A24F-073DBE263581.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/glasses/915AD221-3AE2-49AE-A24F-073DBE263581.json",
+      "effectKeyName": "Custom Avatar Glasses Model Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "A0431057-D95B-41DF-ABA0-4E6850D768C4.1.avatarmodel",
+      "effectId": "A0431057-D95B-41DF-ABA0-4E6850D768C4",
+      "fxLicFileName": "A0431057-D95B-41DF-ABA0-4E6850D768C4.lic",
+      "imageName": "A0431057-D95B-41DF-ABA0-4E6850D768C4.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/glasses/A0431057-D95B-41DF-ABA0-4E6850D768C4.json",
+      "effectKeyName": "Custom Avatar Glasses Model Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "B6E3F671-4FEE-4D81-9D64-E544CBB69F7E.1.avatarmodel",
+      "effectId": "B6E3F671-4FEE-4D81-9D64-E544CBB69F7E",
+      "fxLicFileName": "B6E3F671-4FEE-4D81-9D64-E544CBB69F7E.lic",
+      "imageName": "B6E3F671-4FEE-4D81-9D64-E544CBB69F7E.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/glasses/B6E3F671-4FEE-4D81-9D64-E544CBB69F7E.json",
+      "effectKeyName": "Custom Avatar Glasses Model Id",
+      "type": 0
+    }
+  ]
+}
+

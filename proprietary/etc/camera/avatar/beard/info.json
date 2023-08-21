@@ -1,0 +1,60 @@
+{
+  "infoList": [
+    {
+      "name": "",
+      "fxFileName": "415C141D-B8CB-4821-9405-99327FF53C6D.1.avatarmodel",
+      "effectId": "415C141D-B8CB-4821-9405-99327FF53C6D",
+      "fxLicFileName": "415C141D-B8CB-4821-9405-99327FF53C6D.lic",
+      "imageName": "415C141D-B8CB-4821-9405-99327FF53C6D.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/beard/415C141D-B8CB-4821-9405-99327FF53C6D.json",
+      "effectKeyName": "Custom Avatar Mustache Model Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "42942BCB-486A-4048-A00A-95206D67EC8A.1.avatarmaterial",
+      "effectId": "42942BCB-486A-4048-A00A-95206D67EC8A",
+      "fxLicFileName": "42942BCB-486A-4048-A00A-95206D67EC8A.lic",
+      "imageName": "42942BCB-486A-4048-A00A-95206D67EC8A.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/beard/42942BCB-486A-4048-A00A-95206D67EC8A.json",
+      "effectKeyName": "Custom Avatar Mustache Material Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "20E67905-06F8-4A17-A080-13ED7B793462.1.avatarmaterial",
+      "effectId": "20E67905-06F8-4A17-A080-13ED7B793462",
+      "fxLicFileName": "20E67905-06F8-4A17-A080-13ED7B793462.lic",
+      "imageName": "20E67905-06F8-4A17-A080-13ED7B793462.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/beard/20E67905-06F8-4A17-A080-13ED7B793462.json",
+      "effectKeyName": "Custom Avatar Mustache Material Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "044E5835-6AA1-47F7-93CF-C4BC8814D529.1.avatarmaterial",
+      "effectId": "044E5835-6AA1-47F7-93CF-C4BC8814D529",
+      "fxLicFileName": "044E5835-6AA1-47F7-93CF-C4BC8814D529.lic",
+      "imageName": "044E5835-6AA1-47F7-93CF-C4BC8814D529.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/beard/044E5835-6AA1-47F7-93CF-C4BC8814D529.json",
+      "effectKeyName": "Custom Avatar Mustache Material Id",
+      "type": 0
+    },
+    {
+      "name": "",
+      "fxFileName": "F7F8D59E-F19E-4BDD-A9D1-2F98B4F34CDF.1.avatarmaterial",
+      "effectId": "F7F8D59E-F19E-4BDD-A9D1-2F98B4F34CDF",
+      "fxLicFileName": "F7F8D59E-F19E-4BDD-A9D1-2F98B4F34CDF.lic",
+      "imageName": "F7F8D59E-F19E-4BDD-A9D1-2F98B4F34CDF.png",
+      "fitRatio": 127,
+      "jsonName": "avatar/beard/F7F8D59E-F19E-4BDD-A9D1-2F98B4F34CDF.json",
+      "effectKeyName": "Custom Avatar Mustache Material Id",
+      "type": 0
+    }
+  ]
+}
+
