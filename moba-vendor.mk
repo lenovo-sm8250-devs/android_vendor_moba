@@ -12,7 +12,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/moba/proprietary/apex/com.android.vndk.current/lib/android.hidl.token@1.0-utils.so:$(TARGET_COPY_OUT_SYSTEM)/apex/com.android.vndk.current/lib/android.hidl.token@1.0-utils.so \
     vendor/lenovo/moba/proprietary/apex/com.android.vndk.current/lib64/android.hardware.media.bufferpool@2.0.so:$(TARGET_COPY_OUT_SYSTEM)/apex/com.android.vndk.current/lib64/android.hardware.media.bufferpool@2.0.so \
     vendor/lenovo/moba/proprietary/apex/com.android.vndk.current/lib64/android.hidl.token@1.0-utils.so:$(TARGET_COPY_OUT_SYSTEM)/apex/com.android.vndk.current/lib64/android.hidl.token@1.0-utils.so \
-    vendor/lenovo/moba/proprietary/app/SoterService/SoterService.apk:$(TARGET_COPY_OUT_SYSTEM)/app/SoterService/SoterService.apk \
     vendor/lenovo/moba/proprietary/etc/camera/avatar/alphaHair/214E045B-715E-42C9-8B24-A26CE97297B7.1.avatarmodel:$(TARGET_COPY_OUT_SYSTEM)/etc/camera/avatar/alphaHair/214E045B-715E-42C9-8B24-A26CE97297B7.1.avatarmodel \
     vendor/lenovo/moba/proprietary/etc/camera/avatar/alphaHair/35021AA5-EB33-4971-AB8F-CDBAB522C628.1.avatarmodel:$(TARGET_COPY_OUT_SYSTEM)/etc/camera/avatar/alphaHair/35021AA5-EB33-4971-AB8F-CDBAB522C628.1.avatarmodel \
     vendor/lenovo/moba/proprietary/etc/camera/avatar/alphaHair/429201BF-7F4E-4A4C-A12D-BC8D982E55B4.1.avatarmodel:$(TARGET_COPY_OUT_SYSTEM)/etc/camera/avatar/alphaHair/429201BF-7F4E-4A4C-A12D-BC8D982E55B4.1.avatarmodel \
@@ -238,7 +237,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/moba/proprietary/lib64/libstagefright_codecbase.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libstagefright_codecbase.so \
     vendor/lenovo/moba/proprietary/lib64/libstagefright_framecapture_utils.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libstagefright_framecapture_utils.so \
     vendor/lenovo/moba/proprietary/lib64/vendor.dolby.hardware.dms@2.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.dolby.hardware.dms@2.0.so \
-    vendor/lenovo/moba/proprietary/product/app/PowerOffAlarm/PowerOffAlarm.apk:$(TARGET_COPY_OUT_PRODUCT)/app/PowerOffAlarm/PowerOffAlarm.apk \
     vendor/lenovo/moba/proprietary/system_ext/apex/com.android.vndk.v30/lib/android.hardware.graphics.common@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/apex/com.android.vndk.v30/lib/android.hardware.graphics.common@1.0.so \
     vendor/lenovo/moba/proprietary/system_ext/apex/com.android.vndk.v30/lib/android.hardware.graphics.common@1.1.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/apex/com.android.vndk.v30/lib/android.hardware.graphics.common@1.1.so \
     vendor/lenovo/moba/proprietary/system_ext/apex/com.android.vndk.v30/lib/android.hardware.graphics.common@1.2.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/apex/com.android.vndk.v30/lib/android.hardware.graphics.common@1.2.so \
@@ -253,7 +251,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/moba/proprietary/system_ext/apex/com.android.vndk.v30/lib64/android.hidl.memory@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/apex/com.android.vndk.v30/lib64/android.hidl.memory@1.0.so \
     vendor/lenovo/moba/proprietary/system_ext/apex/com.android.vndk.v30/lib64/android.hidl.safe_union@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/apex/com.android.vndk.v30/lib64/android.hidl.safe_union@1.0.so \
     vendor/lenovo/moba/proprietary/system_ext/apex/com.android.vndk.v30/lib64/libgralloctypes.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/apex/com.android.vndk.v30/lib64/libgralloctypes.so \
-    vendor/lenovo/moba/proprietary/system_ext/app/QtiTelephonyService/QtiTelephonyService.apk:$(TARGET_COPY_OUT_SYSTEM_EXT)/app/QtiTelephonyService/QtiTelephonyService.apk \
     vendor/lenovo/moba/proprietary/system_ext/bin/dpmd:$(TARGET_COPY_OUT_SYSTEM_EXT)/bin/dpmd \
     vendor/lenovo/moba/proprietary/system_ext/bin/wfdservice:$(TARGET_COPY_OUT_SYSTEM_EXT)/bin/wfdservice \
     vendor/lenovo/moba/proprietary/system_ext/etc/dpm/dpm.conf:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/dpm/dpm.conf \
@@ -628,21 +625,10 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/moba/proprietary/system_ext/lib64/vendor.qti.latency@2.1.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.qti.latency@2.1.so \
     vendor/lenovo/moba/proprietary/system_ext/lib64/vendor.qti.qspmhal@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.qti.qspmhal@1.0.so \
     vendor/lenovo/moba/proprietary/system_ext/lib64/vendor.qti.voiceprint@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.qti.voiceprint@1.0.so \
-    vendor/lenovo/moba/proprietary/system_ext/priv-app/WfdService/WfdService.apk:$(TARGET_COPY_OUT_SYSTEM_EXT)/priv-app/WfdService/WfdService.apk \
     vendor/lenovo/moba/proprietary/system_ext/priv-app/WfdService/lib/arm64/libwfdnative.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/priv-app/WfdService/lib/arm64/libwfdnative.so \
-    vendor/lenovo/moba/proprietary/system_ext/priv-app/ims/ims.apk:$(TARGET_COPY_OUT_SYSTEM_EXT)/priv-app/ims/ims.apk \
     vendor/lenovo/moba/proprietary/system_ext/priv-app/ims/lib/arm64/libimscamera_jni.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/priv-app/ims/lib/arm64/libimscamera_jni.so \
     vendor/lenovo/moba/proprietary/system_ext/priv-app/ims/lib/arm64/libimsmedia_jni.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/priv-app/ims/lib/arm64/libimsmedia_jni.so \
-    vendor/lenovo/moba/proprietary/system_ext/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk:$(TARGET_COPY_OUT_SYSTEM_EXT)/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk \
-    vendor/lenovo/moba/proprietary/vendor/app/CACertService/CACertService.apk:$(TARGET_COPY_OUT_VENDOR)/app/CACertService/CACertService.apk \
-    vendor/lenovo/moba/proprietary/vendor/app/CneApp/CneApp.apk:$(TARGET_COPY_OUT_VENDOR)/app/CneApp/CneApp.apk \
     vendor/lenovo/moba/proprietary/vendor/app/CneApp/lib/arm64/libvndfwk_detect_jni.qti.so:$(TARGET_COPY_OUT_VENDOR)/app/CneApp/lib/arm64/libvndfwk_detect_jni.qti.so \
-    vendor/lenovo/moba/proprietary/vendor/app/ConnectionSecurityService/ConnectionSecurityService.apk:$(TARGET_COPY_OUT_VENDOR)/app/ConnectionSecurityService/ConnectionSecurityService.apk \
-    vendor/lenovo/moba/proprietary/vendor/app/IWlanService/IWlanService.apk:$(TARGET_COPY_OUT_VENDOR)/app/IWlanService/IWlanService.apk \
-    vendor/lenovo/moba/proprietary/vendor/app/QFingerprintService/QFingerprintService.apk:$(TARGET_COPY_OUT_VENDOR)/app/QFingerprintService/QFingerprintService.apk \
-    vendor/lenovo/moba/proprietary/vendor/app/TimeService/TimeService.apk:$(TARGET_COPY_OUT_VENDOR)/app/TimeService/TimeService.apk \
-    vendor/lenovo/moba/proprietary/vendor/app/com.qualcomm.qti.gpudrivers.kona.api30/com.qualcomm.qti.gpudrivers.kona.api30.apk:$(TARGET_COPY_OUT_VENDOR)/app/com.qualcomm.qti.gpudrivers.kona.api30/com.qualcomm.qti.gpudrivers.kona.api30.apk \
-    vendor/lenovo/moba/proprietary/vendor/app/pasrservice/pasrservice.apk:$(TARGET_COPY_OUT_VENDOR)/app/pasrservice/pasrservice.apk \
     vendor/lenovo/moba/proprietary/vendor/bin/ATFWD-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/ATFWD-daemon \
     vendor/lenovo/moba/proprietary/vendor/bin/KmInstallKeybox:$(TARGET_COPY_OUT_VENDOR)/bin/KmInstallKeybox \
     vendor/lenovo/moba/proprietary/vendor/bin/PktRspTest:$(TARGET_COPY_OUT_VENDOR)/bin/PktRspTest \
@@ -1189,29 +1175,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/moba/proprietary/vendor/etc/ssg/ta_config.json:$(TARGET_COPY_OUT_VENDOR)/etc/ssg/ta_config.json \
     vendor/lenovo/moba/proprietary/vendor/etc/ssg/tz_whitelist.json:$(TARGET_COPY_OUT_VENDOR)/etc/ssg/tz_whitelist.json \
     vendor/lenovo/moba/proprietary/vendor/etc/system_properties.xml:$(TARGET_COPY_OUT_VENDOR)/etc/system_properties.xml \
-    vendor/lenovo/moba/proprietary/vendor/etc/vintf/manifest/android.hardware.atrace@1.0-service.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/android.hardware.atrace@1.0-service.xml \
-    vendor/lenovo/moba/proprietary/vendor/etc/vintf/manifest/android.hardware.biometrics.fingerprint@2.1-service.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/android.hardware.biometrics.fingerprint@2.1-service.xml \
-    vendor/lenovo/moba/proprietary/vendor/etc/vintf/manifest/android.hardware.cas@1.2-service.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/android.hardware.cas@1.2-service.xml \
-    vendor/lenovo/moba/proprietary/vendor/etc/vintf/manifest/android.hardware.gnss@2.1-service-qti.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/android.hardware.gnss@2.1-service-qti.xml \
-    vendor/lenovo/moba/proprietary/vendor/etc/vintf/manifest/android.hardware.graphics.mapper-impl-qti-display.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/android.hardware.graphics.mapper-impl-qti-display.xml \
-    vendor/lenovo/moba/proprietary/vendor/etc/vintf/manifest/android.hardware.health@2.1.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/android.hardware.health@2.1.xml \
-    vendor/lenovo/moba/proprietary/vendor/etc/vintf/manifest/android.hardware.lights-qti.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/android.hardware.lights-qti.xml \
-    vendor/lenovo/moba/proprietary/vendor/etc/vintf/manifest/android.hardware.neuralnetworks@1.3-service-qti-hta.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/android.hardware.neuralnetworks@1.3-service-qti-hta.xml \
-    vendor/lenovo/moba/proprietary/vendor/etc/vintf/manifest/android.hardware.neuralnetworks@1.3-service-qti.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/android.hardware.neuralnetworks@1.3-service-qti.xml \
-    vendor/lenovo/moba/proprietary/vendor/etc/vintf/manifest/android.hardware.sensors@2.0-multihal.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/android.hardware.sensors@2.0-multihal.xml \
-    vendor/lenovo/moba/proprietary/vendor/etc/vintf/manifest/android.hardware.thermal@2.0-service.qti.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/android.hardware.thermal@2.0-service.qti.xml \
-    vendor/lenovo/moba/proprietary/vendor/etc/vintf/manifest/android.hardware.usb@1.2-service.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/android.hardware.usb@1.2-service.xml \
-    vendor/lenovo/moba/proprietary/vendor/etc/vintf/manifest/android.hardware.wifi.hostapd.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/android.hardware.wifi.hostapd.xml \
-    vendor/lenovo/moba/proprietary/vendor/etc/vintf/manifest/android.hardware.wifi@1.0-service.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/android.hardware.wifi@1.0-service.xml \
-    vendor/lenovo/moba/proprietary/vendor/etc/vintf/manifest/manifest.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/manifest.xml \
-    vendor/lenovo/moba/proprietary/vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.3-service.clearkey.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/manifest_android.hardware.drm@1.3-service.clearkey.xml \
-    vendor/lenovo/moba/proprietary/vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.3-service.widevine.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/manifest_android.hardware.drm@1.3-service.widevine.xml \
-    vendor/lenovo/moba/proprietary/vendor/etc/vintf/manifest/power.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/power.xml \
-    vendor/lenovo/moba/proprietary/vendor/etc/vintf/manifest/vendor.qti.gnss@4.0-service.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/vendor.qti.gnss@4.0-service.xml \
-    vendor/lenovo/moba/proprietary/vendor/etc/vintf/manifest/vendor.qti.hardware.display.allocator-service.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/vendor.qti.hardware.display.allocator-service.xml \
-    vendor/lenovo/moba/proprietary/vendor/etc/vintf/manifest/vendor.qti.hardware.display.composer-service.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/vendor.qti.hardware.display.composer-service.xml \
-    vendor/lenovo/moba/proprietary/vendor/etc/vintf/manifest/vendor.qti.hardware.servicetracker@1.2-service.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/vendor.qti.hardware.servicetracker@1.2-service.xml \
-    vendor/lenovo/moba/proprietary/vendor/etc/vintf/manifest/vendor.qti.hardware.vibrator.service.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/vendor.qti.hardware.vibrator.service.xml \
     vendor/lenovo/moba/proprietary/vendor/etc/wfdconfig.xml:$(TARGET_COPY_OUT_VENDOR)/etc/wfdconfig.xml \
     vendor/lenovo/moba/proprietary/vendor/etc/xtra_root_cert.pem:$(TARGET_COPY_OUT_VENDOR)/etc/xtra_root_cert.pem \
     vendor/lenovo/moba/proprietary/vendor/etc/xtwifi.conf:$(TARGET_COPY_OUT_VENDOR)/etc/xtwifi.conf \
@@ -3012,4 +2975,40 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libfastcvopt \
-    libthermalclient
+    libthermalclient \
+    SoterService \
+    PowerOffAlarm \
+    QtiTelephonyService \
+    WfdService \
+    ims \
+    qcrilmsgtunnel \
+    CACertService \
+    CneApp \
+    pasrservice \
+    ConnectionSecurityService \
+    IWlanService \
+    QFingerprintService \
+    TimeService \
+    com.qualcomm.qti.gpudrivers.kona.api30 \
+    android.hardware.atrace@1.0-service \
+    android.hardware.biometrics.fingerprint@2.1-service \
+    android.hardware.cas@1.2-service \
+    android.hardware.usb@1.2-service \
+    android.hardware.wifi@1.0-service \
+    vendor.qti.gnss@4.0-service \
+    vendor.qti.hardware.display.allocator-service \
+    vendor.qti.hardware.display.composer-service \
+    vendor.qti.hardware.servicetracker@1.2-service \
+    vendor.qti.hardware.vibrator.service \
+    android.hardware.gnss@2.1-service-qti \
+    android.hardware.graphics.mapper-impl-qti-display \
+    android.hardware.health@2.1 \
+    android.hardware.lights-qti \
+    android.hardware.neuralnetworks@1.3-service-qti-hta \
+    android.hardware.neuralnetworks@1.3-service-qti \
+    android.hardware.sensors@2.0-multihal \
+    android.hardware.thermal@2.0-service.qti \
+    android.hardware.wifi.hostapd \
+    manifest_android.hardware.drm@1.3-service.clearkey \
+    manifest_android.hardware.drm@1.3-service.widevine \
+    power \
